@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there!  <img width="30px" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"/>
 
 ## Who Am I? 🤔
 I'm **Nomaan Rigi**, a web developer with a burning passion for front-end innovation. Crafting user experiences that are both intuitive and visually compelling is my forte. I thrive on the challenge of translating design into functional code and am always on the lookout for the next big thing in tech.
@@ -34,9 +34,6 @@ Here's a glimpse of what I've been up to:
 
 ## Contact Me 📱
 
+<a href="https://t.me/nomaan07dev"><img height="25px" src="https://img.shields.io/badge/telegram-@nomaan07dev-0088cc?style=flat-square&logo=telegram" alt="Telegram"/></a>
 
-<a href="https://t.me/nomaan07dev"><img width="50x" height="50px" src="https://github.com/nomaan-07/nomaan-07/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram"/></a>
-
-<a href="mailto: nomaan07.dev@gmail.com"><img width="50px" height="50px" src="https://github.com/nomaan-07/nomaan-07/blob/main/icons8-gmail-96.png?raw=true" alt="Gmail"/></a>
-
----
+<a href="mailto: nomaan07.dev@gmail.co"><img height="25px" src="https://img.shields.io/badge/gmail-nomaan07.dev-ff4343?style=flat-square&logo=gmail" alt="Gmail"/></a>
