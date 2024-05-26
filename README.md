@@ -32,4 +32,11 @@ Here's a glimpse of what I've been up to:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=nomaan-07&show_icons=true&theme=highcontrast)
 
+## Contact Me 📱
+
+
+<a href="https://t.me/nomaan07dev"><img width="50x" height="50px" src="https://github.com/nomaan-07/nomaan-07/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram"/></a>
+
+<a href="mailto: nomaan07.dev@gmail.com"><img width="50px" height="50px" src="https://github.com/nomaan-07/nomaan-07/blob/main/icons8-gmail-96.png?raw=true" alt="Gmail"/></a>
+
 ---
