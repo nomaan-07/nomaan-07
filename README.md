@@ -36,4 +36,4 @@ Here's a glimpse of what I've been up to:
 
 <a href="https://t.me/nomaan07dev"><img height="25px" src="https://img.shields.io/badge/telegram-@nomaan07dev-0088cc?style=flat-square&logo=telegram" alt="Telegram"/></a>
 
-<a href="mailto: nomaan07.dev@gmail.co"><img height="25px" src="https://img.shields.io/badge/gmail-nomaan07.dev-ff4343?style=flat-square&logo=gmail" alt="Gmail"/></a>
+<a href="mailto: nomaan07.dev@gmail.com"><img height="25px" src="https://img.shields.io/badge/gmail-nomaan07.dev-ff4343?style=flat-square&logo=gmail" alt="Gmail"/></a>
