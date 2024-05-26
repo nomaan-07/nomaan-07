@@ -1,31 +1,29 @@
-# Hi, I'm Nomaan Rigi! 👋
-<!-- 
-## About Me
-I'm a passionate web developer with a focus on front-end technologies. Here are some key details about me:
+## About Me 👤
+Hi I'm **Nomaan Rigi**👋, I'm a Junior passionate web developer with focus moslty on front-end technologies. Here are some key details about me:
 
-- **Name:** Nomaan Rigi
-- **Date of Birth:** May 14, 1999
-
-## Skills
+## My Skills 🧑‍💻
 I have experience in the following areas:
 
-1. **HTML:** I'm proficient in writing semantic HTML code to structure web content.
-2. **CSS:** I can style web pages using CSS, and I'm familiar with frameworks like Tailwind CSS.
-3. **JavaScript:** I've worked with vanilla JavaScript and am currently diving into more advanced topics.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## Learning Journey
-I'm actively learning advanced JavaScript concepts to enhance my skills. Some of the topics I'm exploring include:
+![JavaScript](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-- **ES6+ Features:** Arrow functions, destructuring, async/await, and more.
-- **React:** I'm excited to learn React for building dynamic and interactive web applications.
-- **Redux:** Understanding state management with Redux is on my radar.
-- **Docker:** I'm curious about containerization and its benefits.
+## Learning Journey 🏫
+I'm actively eant to learn advanced JavaScript concepts to enhance my skills. Some of the topics I will learn in feature:
+
+- **React**
+- **Redux**
+- **Typescript**
+- **Next js**
+- **‍Docker‍**
 
 ## GitHub Stats
-!Nomaan's GitHub Stats
-
-Feel free to connect with me on Telegram or LinkedIn! Let's learn and grow together. 😊
 
 ![most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomaan-07&layout=donut&theme=highcontrast)
 
- -->
+![github stats](https://github-readme-stats.vercel.app/api?username=nomaan-07&show_icons=true&theme=highcontrast)
+
+
