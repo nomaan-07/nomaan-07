@@ -1,5 +1,5 @@
 # Hi, I'm Nomaan Rigi! 👋
-
+<!-- 
 ## About Me
 I'm a passionate web developer with a focus on front-end technologies. Here are some key details about me:
 
@@ -28,3 +28,4 @@ Feel free to connect with me on Telegram or LinkedIn! Let's learn and grow toget
 
 ![most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomaan-07&layout=donut&theme=highcontrast)
 
+ -->
