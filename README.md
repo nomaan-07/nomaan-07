@@ -30,7 +30,9 @@ Here's a glimpse of what I've been up to:
 
 ![most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomaan-07&layout=donut&theme=highcontrast)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=nomaan-07&show_icons=true&theme=highcontrast)
+![github stats](https://github-readme-stats.vercel.app/api?username=nomaan-07&show_icons=true&theme=highcontrast&custom_title=My&nbsp;GitHub&nbsp;Stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomaan-07&custom_title=My&nbsp;Contribution&nbsp;Graph&theme=merko&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contact Me 📱
 
