@@ -1,5 +1,7 @@
 # Hello there!  <img width="30px" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"/>
 
+![Visitor Count](https://profile-counter.glitch.me/{nomaan-07}/count.svg)
+
 ## Who Am I? 🤔
 I'm **Nomaan Rigi**, a web developer with a burning passion for front-end innovation. Crafting user experiences that are both intuitive and visually compelling is my forte. I thrive on the challenge of translating design into functional code and am always on the lookout for the next big thing in tech.
 
