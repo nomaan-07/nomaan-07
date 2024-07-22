@@ -34,7 +34,7 @@ Here's a glimpse of what I've been up to:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomaan-07&custom_title=My&nbsp;Contribution&nbsp;Graph&theme=merko&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnomaan-07&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnomaan-07)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnomaan-07&countColor=%23dce775)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnomaan-07)
 
 ## Contact Me 📱
 
