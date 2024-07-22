@@ -1,6 +1,6 @@
 # Hello there!  <img width="30px" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"/>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnomaan-07&countColor=%38cfb8)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnomaan-07&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnomaan-07)
 
 ## Who Am I? 🤔
 I'm **Nomaan Rigi**, a web developer with a burning passion for front-end innovation. Crafting user experiences that are both intuitive and visually compelling is my forte. I thrive on the challenge of translating design into functional code and am always on the lookout for the next big thing in tech.
