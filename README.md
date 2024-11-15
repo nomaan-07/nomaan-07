@@ -10,15 +10,15 @@ I wield a diverse array of tools to bring designs to life. Here's a snapshot of 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 And also:
 
-![JavaScript](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pyhton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## My Learning Odyssey 🌱
 The tech landscape is ever-evolving, and so am I. Currently, I'm on a quest to master:
 
-- **React** - To build dynamic and scalable web apps.
 - **Redux** - For state management sorcery.
 - **TypeScript** - Adding type safety to my JavaScript endeavors.
 - **Next.js** - For server-side rendering and static site generation.
