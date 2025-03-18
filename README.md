@@ -19,7 +19,6 @@ And also:
 ## My Learning Odyssey 🌱
 The tech landscape is ever-evolving, and so am I. Currently, I'm on a quest to master:
 
-- **Redux** - For state management sorcery.
 - **TypeScript** - Adding type safety to my JavaScript endeavors.
 - **Next.js** - For server-side rendering and static site generation.
 - **Docker** - Containerizing apps for the ultimate deployment ease.
