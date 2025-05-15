@@ -11,6 +11,7 @@ I wield a diverse array of tools to bring designs to life. Here's a snapshot of 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 And also:
 
@@ -19,7 +20,6 @@ And also:
 ## My Learning Odyssey 🌱
 The tech landscape is ever-evolving, and so am I. Currently, I'm on a quest to master:
 
-- **TypeScript** - Adding type safety to my JavaScript endeavors.
 - **Next.js** - For server-side rendering and static site generation.
 - **Docker** - Containerizing apps for the ultimate deployment ease.
 
